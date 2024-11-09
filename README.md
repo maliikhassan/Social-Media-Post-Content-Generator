@@ -7,6 +7,8 @@ A Next.js project that allows users to easily generate content for their social 
 - **AI Content Generation**: Automatically generates engaging content for social media posts.
 - **Responsive Design**: The project is built to be mobile-friendly and responsive.
 - **Customizable**: Users can customize the generated content for different social media platforms.
+  ![image](https://github.com/user-attachments/assets/6fc46974-6846-40aa-98ff-51d52a268c8e)
+
 
 ## Technologies Used
 
